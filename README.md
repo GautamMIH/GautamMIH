@@ -35,7 +35,7 @@ I specialize in building high-precision AI models and scalable cloud architectur
 
 ### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamMIH&layout=compact&theme=radical&hide_border=true)](https://github.com/GautamMIH)
 
 ---
 
