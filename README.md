@@ -10,7 +10,7 @@ I specialize in building high-precision AI models and scalable cloud architectur
 
 | **Project** | **Tech Stack** | **Highlight** |
 | :--- | :--- | :--- |
-| **[Healthcare Access Control (R&D)]()** | Python, AWS, SQL | Achieved **95% precision** on a **200GB+** dataset, optimizing doctor-patient data exclusivity. |
+| **[Healthcare Access Control (R&D)]** | Python, AWS, SQL | Achieved **95% precision** on a **200GB+** dataset, optimizing doctor-patient data exclusivity. |
 | **[TORCS Autonomous Agent]()** | C++, Python, DQN | Self-learning racer with multi-objective reward shaping, achieving **95% on-track accuracy**. |
 | **[Subway Surfer CNN]()** | Python, TensorFlow, OpenCV | Lightweight classification model with **<50ms inference time** suitable for real-time gameplay. |
 | **[StockSage Prediction Tool]()** | Python, LSTM, PHP | Time-series forecasting using LSTMs to predict stock market trends with high fidelity. |
