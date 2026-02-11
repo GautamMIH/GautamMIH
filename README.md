@@ -1,6 +1,6 @@
 ### Hi there, I'm Gautam Mudbhari 👋
 
-**AI Researcher | Cloud Data Engineer | Full Stack Developer**
+**AI Researcher | Cloud Data Engineer **
 
 I specialize in building high-precision AI models and scalable cloud architectures. From engineering proprietary healthcare access control systems with **96% precision** to training autonomous agents in simulations, I bridge the gap between theoretical research and production-ready software.
 
